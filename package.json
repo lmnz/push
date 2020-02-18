@@ -1,0 +1,20 @@
+{
+  "name": "push",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmnz/push.git"
+  },
+  "keywords": [],
+  "author": "Justin Lee <lmnzzz@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lmnz/push/issues"
+  },
+  "homepage": "https://github.com/lmnz/push#readme"
+}
